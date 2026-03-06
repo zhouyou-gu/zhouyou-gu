@@ -64,9 +64,9 @@ I am a **Research Fellow** at the [Singapore University of Technology and Design
 
 ---
 
-## 📚 Recent Publications
+## 📚 Selected Publications
 
-### 📰 Journals & Preprints (2024–2026)
+### 📰 Journals & Preprints (2021–2026)
 
 | Year | Title | Venue |
 |------|-------|-------|
@@ -119,10 +119,30 @@ Sparse interference graph-aided semidefinite programming for large-scale wireles
 <td width="50%">
 
 ### 🌐 [drl-5g-scheduler](https://github.com/zhouyou-gu/drl-5g-scheduler)
-Knowledge-assisted deep reinforcement learning scheduler for 5G RAN (IEEE JSAC 2021). 40+ ⭐
+Knowledge-assisted deep reinforcement learning scheduler for 5G RAN (IEEE JSAC 2021).
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 [![Stars](https://img.shields.io/github/stars/zhouyou-gu/drl-5g-scheduler?style=flat-square)](https://github.com/zhouyou-gu/drl-5g-scheduler)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔗 [ac-grl-wi-fi](https://github.com/zhouyou-gu/ac-grl-wi-fi)
+Graph representation learning for contention and interference management in wireless networks (IEEE/ACM Trans. Networking 2024).
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[![Stars](https://img.shields.io/github/stars/zhouyou-gu/ac-grl-wi-fi?style=flat-square)](https://github.com/zhouyou-gu/ac-grl-wi-fi)
+
+</td>
+<td width="50%">
+
+### 🧪 [ns-3-dev-ac-grl-wi-fi](https://github.com/zhouyou-gu/ns-3-dev-ac-grl-wi-fi)
+NS-3 simulation codes for the graph representation learning paper on contention and interference management (IEEE/ACM Trans. Networking 2024).
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+[![Stars](https://img.shields.io/github/stars/zhouyou-gu/ns-3-dev-ac-grl-wi-fi?style=flat-square)](https://github.com/zhouyou-gu/ns-3-dev-ac-grl-wi-fi)
 
 </td>
 </tr>
