@@ -73,7 +73,7 @@ I am a **Research Fellow** at the [Singapore University of Technology and Design
 | 2026 | [Duality-Guided Graph Learning for Real-Time Joint Connectivity and Routing in LEO Mega-Constellations](https://arxiv.org/abs/2601.21921) | arXiv preprint |
 | 2026 | [Joint Laser Inter-Satellite Link Matching and Traffic Flow Routing in LEO Mega-Constellations via Lagrangian Duality](https://arxiv.org/abs/2601.21914) | arXiv preprint |
 | 2026 | [Reinforcement Learning for Opportunistic Routing in Software-Defined LEO-Terrestrial Systems](https://doi.org/10.1109/LWC.2026.3663306) | IEEE Wireless Commun. Letters |
-| 2025 | [ScNeuGM: Scalable Neural Graph Modeling for Coloring-Based Contention and Interference Management in Wi-Fi 7](https://arxiv.org/abs/2502.03300) | arXiv preprint |
+| 2025 | [Scalable Interference Graph Learning for Low-Latency Wi-Fi Networks using Hashing-based Evolution Strategy](https://arxiv.org/abs/2502.03300) | arXiv preprint |
 | 2025 | [SIG-SDP: Sparse Interference Graph-Aided Semidefinite Programming for Large-Scale Wireless TSN](https://arxiv.org/abs/2501.11307) | arXiv preprint |
 | 2024 | [Opportunistic Scheduling Using Statistical Information of Wireless Channels](https://doi.org/10.1109/TWC.2024.3366402) | IEEE Trans. Wireless Commun. |
 | 2024 | [Graph Representation Learning for Contention and Interference Management in Wireless Networks](https://doi.org/10.1109/TNET.2024.3355935) | IEEE/ACM Trans. Networking |
