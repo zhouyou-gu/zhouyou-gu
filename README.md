@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:6610f2&height=200&section=header&text=Zhouyou%20Gu%20(Charles)&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Research%20Assistant%20Professor%20%7C%20Wireless%20Systems%20%7C%20AI%20for%20Networks&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:6610f2&height=200&section=header&text=Zhouyou%20Gu%20(Charles)&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Research%20Assistant%20Professor%20with%20Prof.%20Jihong%20Park%20%7C%20Wireless%20Systems%20%7C%20AI%20for%20Networks&descAlignY=58&descSize=16" width="100%"/>
 
 [![Website](https://img.shields.io/badge/Website-zhouyou--gu.github.io-blue?style=flat-square&logo=github)](https://zhouyou-gu.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=W2HmqZ8AAAAJ&hl=en)
@@ -13,13 +13,13 @@
 
 ## 👋 About Me
 
-I am a **Research Assistant Professor** at the [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), working with [Prof. Jihong Park](https://sites.google.com/view/jihong-park). My work bridges theory and implementation in **wireless networking systems** — from algorithm design to real-time prototyping on programmable hardware.
+I am a **Research Assistant Professor** with [Prof. Jihong Park](https://sites.google.com/view/jihong-park) at the [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/). My work bridges theory and implementation in **wireless networking systems** — from algorithm design to real-time prototyping on programmable hardware.
 
 > *"Making wireless networks smarter through graph learning, reinforcement learning, and AI-native protocol design."*
 
 - 📍 **Location:** Singapore
 - 🎓 **Ph.D.** in Engineering, The University of Sydney (2023)
-- 🔬 **Research Assistant Professor** @ SUTD (joined Nov 2024)
+- 🔬 **Research Assistant Professor** with Prof. Jihong Park @ SUTD since July 2026 (promoted from Research Fellow, Nov 2024–June 2026)
 - 🏆 Best Student Paper Award, AAAI 2026 ML4Wireless Workshop (for LocDreamer)
 - 🤝 Industry collaborations: **NVIDIA**, **Morse Micro**, **Telstra**
 
