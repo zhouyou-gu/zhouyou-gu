@@ -19,7 +19,7 @@ I am a **Research Assistant Professor** with [Prof. Jihong Park](https://sites.g
 
 - 📍 **Location:** Singapore
 - 🎓 **Ph.D.** in Engineering, The University of Sydney (2023)
-- 🔬 **Research Assistant Professor** with Prof. Jihong Park @ SUTD since July 2026 (promoted from Research Fellow, Nov 2024–June 2026)
+- 🔬 **Research Assistant Professor** with Prof. Jihong Park @ SUTD since July 2026
 - 🏆 Best Student Paper Award, AAAI 2026 ML4Wireless Workshop (for LocDreamer)
 - 🤝 Industry collaborations: **NVIDIA**, **Morse Micro**, **Telstra**
 
